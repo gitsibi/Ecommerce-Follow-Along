@@ -45,7 +45,7 @@ In this milestone, I have successfully set up the backend of the ecommerce appli
 3. **MongoDB Integration**: Connected the server to MongoDB using Mongoose to store and manage item data.
 4. **Error Handling**: Implemented basic error handling to catch errors and provide meaningful messages.
 
-The backend is now capable of performing basic CRUD operations on items.
+The Backend is now capable of performing basic CRUD operations on items.
 
 
 
