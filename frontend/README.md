@@ -33,3 +33,19 @@ In this milestone, I successfully set up both the frontend and backend of the pr
 - **Backend**: Configured the backend with Express, Mongoose, and dotenv to handle API requests and manage environment configurations.
 - **User Authentication**: Set up the basic structure for future user authentication endpoints (e.g., login and registration).
 
+
+# Ecommerce Follow Along Project
+
+## Milestone 3: Project Setup for Backend
+
+In this milestone, I have successfully set up the backend of the ecommerce application using Node.js, Express, and MongoDB. The following tasks were accomplished:
+
+1. **Backend Folder Structure**: Organized the backend code into controllers, models, routes, middleware, and utils folders.
+2. **Server Setup**: Configured an Express server to listen on port 5000 and handle API requests.
+3. **MongoDB Integration**: Connected the server to MongoDB using Mongoose to store and manage item data.
+4. **Error Handling**: Implemented basic error handling to catch errors and provide meaningful messages.
+
+The backend is now capable of performing basic CRUD operations on items.
+
+
+
