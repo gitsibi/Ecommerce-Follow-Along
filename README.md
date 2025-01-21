@@ -1,17 +1,32 @@
+# Ecommerce Follow Along Project
+Welcome to **Ecommerce Folow Along Project**, This is a hand-on project where we are going to build a completed e-coomerece application using the MERN Stack(Mongodb,express.js,react.js and node.js).In this we will learn how to develop a full stack web applications step by step. 
 
-# Ecommerce Applications
 ## Milestone 1: Project Overview
-1. **Authentication:**
-   - User login, signup, and logout functionalities.
 
-2. **Product image:**
-   - Display of all product images with detailed information.
+#### 1. Understanding the MERN Stack:
+ **MongoDB :** A database for storing application data in a flexible, document based format.
+ **Express.js :** A backend web application framework for building APIs and handling server logics.
+ **React.js :** A framework library for building User Interfaces.
+ **Node.js :** A runtime environment that allows javascript to run on the server.
+ 
+#### 2. REST API Structure  
+REST APIs are used to allow communication between the frontend and backend.  
+We’ll create APIs for:  
+- **User Authentication**: Allowing users to register and log in.  
+- **Product Management**: Adding, updating, and retrieving product data.  
+- **Order Handling**: Managing customer orders.
 
-3. **Orders page:**
-   - A dedicated page for viewing user-specific orders.
-   
-4. **Payment gateway:**
-   - Seamless integration with a payment gateway for processing transactions.
+#### 3. Database Schema Design  
+We’ll learn how to design and organize data using MongoDB. A schema helps us define how the data is stored and related.  
+
+
+#### 4. Authentication  
+Authentication ensures only the right people can access certain features. For example:  
+- Users need to log in to place orders or see their personal data.  
+- It keeps the app secure by verifying users’ identities.  
+
+ 
+
 
 ## Milestone 2: Project Setup and Login Page.
 
